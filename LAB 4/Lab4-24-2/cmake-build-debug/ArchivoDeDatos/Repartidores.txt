@@ -1,0 +1,35 @@
+54805724   Vizcardo/Sinche/Maribel   Motocicleta   4826   Santa Rosa
+95482222   Asmad/Chavez/Adria   Bicicleta   8667   Jesus Maria
+60685215   Sakaguchi/Mori/Carlos-Ronal   Motocicleta   1439   Comas
+24721987   Ramirez/Astete/Karina-Estefania   Bicicleta   6092   Punta Hermosa
+64102186   Diaz/Tang/Enrique   Bicicleta   7318   La Victoria
+96430314   Sam/Yallico/Ines   Bicicleta   8659   Puente Piedra
+82962199   Pena/Suarez/Glenda-Margot   Motocicleta   9713   San Isidro
+52397686   Narvaez/Castillo/Jesus-Rafael   Motocicleta   6936   San Luis
+25516055   Jauregui/Del/Castillo/Victor-Ricardo   Motocicleta   5964   Pueblo Libre
+13037550   Rodriguez/Moreno/Blanca-Ofelia   Bicicleta   6223   Miraflores
+71914615   Escalante/Rojas/Ines-Adria   Bicicleta   4803   Carabayllo
+97394359   Egusquiza/Berrocal/Doris-Nancy   Motocicleta   8667   Jesus Maria
+96407230   Moscoso/Arias/Fiorella   Bicicleta   6184   Pachacamac
+25921814   Solis/Narvaez/Maria-Madeleine   Bicicleta   7752   Los Olivos
+24542282   Lozada/Arguedas/Felicita-Valentina   Motocicleta   4803   Carabayllo
+28777346   Hijar/Lam/Martin   Motocicleta   8659   Puente Piedra
+34795643   Pairazaman/Raffo/Tatiana-Delicia   Bicicleta   1439   Comas
+78894665   Bravo/Cortes/Janet/Flor   Bicicleta   4504   Santa Anita
+73953533   Justino/Norabuena/Virginia-Karina   Bicicleta   9713   San Isidro
+43679625   Patino/Bolanos/Delicia-Virginia   Motocicleta   6092   Punta Hermosa
+23889863   Arroyo/Tomasiche/Natalia   Motocicleta   6223   Miraflores
+88923038   Vega/Soria/Henrry   Motocicleta   2765   San Juan de Miraflores
+35679675   Prado/Vera/Juan   Motocicleta   5817   San Miguel
+32579168   Contreras/Chang/Johana-Cinthia   Motocicleta   5926   Chaclacayo
+14994362   Lozada/Forzani/Delia   Motocicleta   7752   Los Olivos
+53469476   Solis/Chung/Rolando   Bicicleta   5817   San Miguel
+24363330   Camacho/Pairazaman/Ydali-Lucero   Motocicleta   7318   La Victoria
+80913411   Mercado/Coronel/Elia   Motocicleta   6184   Pachacamac
+89367567   Florencio/Coronado/Alonso   Motocicleta   4504   Santa Anita
+32708645   Valverde/Maeireizo/Melvin-Jair   Bicicleta   5926   Chaclacayo
+96708707   Sinche/Rivero/Yvonne-Silvana   Bicicleta   2765   San Juan de Miraflores
+33479141   Trigueros/Jugo/Luz   Bicicleta   5964   Pueblo Libre
+77697252   Zarate/Perez/Alexander   Bicicleta   6936   San Luis
+88547910   Lozada/Iberos/Heli-Blanca   Bicicleta   4826   Santa Rosa
+95324349   Luna/Vargas/Waldemar   Motocicleta   4311   Lince
