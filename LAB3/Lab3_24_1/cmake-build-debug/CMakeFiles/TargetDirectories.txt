@@ -1,0 +1,3 @@
+D:/PUCP/2025-2/TP/LAB 2/Lab2- clase/cmake-build-debug/CMakeFiles/Lab2__clase.dir
+D:/PUCP/2025-2/TP/LAB 2/Lab2- clase/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/PUCP/2025-2/TP/LAB 2/Lab2- clase/cmake-build-debug/CMakeFiles/rebuild_cache.dir
